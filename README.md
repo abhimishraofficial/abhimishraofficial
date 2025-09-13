@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhishek Kumar
 
-<!--
-**abhimishraofficial/abhimishraofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer** | 🚀 **React, Node.js Enthusiast** | 🤖 **AI Learner**  
+I love building clean, scalable web apps and exploring new technologies every day.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishekme.vercel.app)
+![Profile views](https://komarev.com/ghpvc/?username=abhimishraofficial&color=blue)
+
+---
+
+## 🛠 Tech Stack:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+- 🚀 **[3D Portfolio](https://github.com/abhimishraofficial/3D_Portfolio)** – A modern 3D developer portfolio using React + Three.js  
+- 🩸 **[Blood Bank Frontend](https://github.com/abhimishraofficial/blood-bank-frontend)** – MERN stack blood bank management app  
+- ⏱ **[StopWatch](https://github.com/abhimishraofficial/StopWatch)** – Minimal stopwatch web app  
+- 🎯 **[Weather App](https://github.com/abhimishraofficial/Weather--App)** – Weather dashboard with OpenWeather API  
+
+---
+
+## 📊 GitHub Stats:
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhimishraofficial&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimishraofficial&layout=compact&theme=radical)
