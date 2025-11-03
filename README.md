@@ -6,7 +6,7 @@ I love building clean, scalable web apps and exploring new technologies every da
 ---
 
 ## 🔗 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishek-kumar-30483023a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishekme.vercel.app)
 ![Profile views](https://komarev.com/ghpvc/?username=abhimishraofficial&color=blue)
 
@@ -25,12 +25,6 @@ I love building clean, scalable web apps and exploring new technologies every da
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-## 📌 Featured Projects
-- 🚀 **[3D Portfolio](https://github.com/abhimishraofficial/3D_Portfolio)** – A modern 3D developer portfolio using React + Three.js  
-- 🩸 **[Blood Bank Frontend](https://github.com/abhimishraofficial/blood-bank-frontend)** – MERN stack blood bank management app  
-- ⏱ **[StopWatch](https://github.com/abhimishraofficial/StopWatch)** – Minimal stopwatch web app  
-- 🎯 **[Weather App](https://github.com/abhimishraofficial/Weather--App)** – Weather dashboard with OpenWeather API  
 
 ---
 
