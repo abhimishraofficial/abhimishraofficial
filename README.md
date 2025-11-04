@@ -31,15 +31,9 @@ I love building clean, scalable web apps and exploring new technologies every da
 > A React-based web app to visualize and understand algorithms with clean UI and categorized topics.  
 **Tech Stack:** React, TypeScript, TailwindCSS  
 
-![Algorithm Finder Preview](https://via.placeholder.com/900x450.png?text=Algorithm+Finder+Preview)
+![Algorithm Finder Preview](https://raw.githubusercontent.com/abhimishraofficial/algorithm-finder/main/preview2.png)
 
 ---
-
-### 🛒 [FlipSmart](https://github.com/abhimishraofficial/flipsmart)
-> A modern e-commerce platform featuring cart, wishlist, and authentication functionality.  
-**Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)
-
-![FlipSmart Preview]()
 
 ---
 
