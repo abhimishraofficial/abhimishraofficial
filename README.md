@@ -55,7 +55,8 @@ I love building clean, scalable web apps and exploring new technologies every da
 > A women’s health and hygiene awareness platform with blogs and product recommendations.  
 **Tech Stack:** React, TailwindCSS, Firebase
 
-![FemCare Preview](https://via.placeholder.com/900x450.png?text=FemCare+Preview)
+![FemCare Preview](https://raw.githubusercontent.com/abhimishraofficial/femcare/main/preview.png
+)
 
 ---
 
