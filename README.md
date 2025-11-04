@@ -39,7 +39,7 @@ I love building clean, scalable web apps and exploring new technologies every da
 > A modern e-commerce platform featuring cart, wishlist, and authentication functionality.  
 **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)
 
-![FlipSmart Preview](https://via.placeholder.com/900x450.png?text=FlipSmart+Preview)
+![FlipSmart Preview]()
 
 ---
 
@@ -47,7 +47,7 @@ I love building clean, scalable web apps and exploring new technologies every da
 > A cloud management dashboard that integrates multiple cloud service providers for unified monitoring.  
 **Tech Stack:** React, Node.js, Express, MongoDB, Chart.js
 
-![MultiCloud Preview](https://via.placeholder.com/900x450.png?text=MultiCloud+Preview)
+![MultiCloud Preview](https://raw.githubusercontent.com/abhimishraofficial/multicloud/main/preview1.png)
 
 ---
 
