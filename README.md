@@ -1,64 +1,45 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f4ae514e-c257-4083-987c-60c400cb3263" alt="Abhishek Kumar Banner" width="100%" />
+<table>
+<tr>
+<td width="30%" align="center">
+
+<img src="https://github.com/user-attachments/assets/f4ae514e-c257-4083-987c-60c400cb3263"
+     alt="Abhishek Kumar"
+     width="180"
+     style="border-radius:50%;" />
+
+<br/><br/>
+
+<b>Abhishek Kumar</b><br/>
+Full Stack Developer<br/><br/>
+
+<a href="https://www.linkedin.com/in/abhishek-kumar-30483023a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://abhishekme.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="70%">
+
+<h2>Hi 👋, I'm Abhishek Kumar</h2>
+
+<p>
+💻 <b>Full Stack Developer</b> | 🚀 <b>React & Node.js Enthusiast</b> | 🤖 <b>AI Learner</b><br/><br/>
+I love building clean, scalable web applications and continuously exploring new technologies.
 </p>
-# 👋 Hi, I'm Abhishek Kumar
 
-💻 **Full Stack Developer** | 🚀 **React, Node.js Enthusiast** | 🤖 **AI Learner**  
-I love building clean, scalable web apps and exploring new technologies every day.  
+<ul>
+  <li>🔭 I’m currently working on MERN & Full-Stack projects</li>
+  <li>🌱 Learning AI, System Design & Advanced React</li>
+  <li>👯 Looking to collaborate on Web & Open-Source projects</li>
+  <li>📫 Reach me at: <b>your-email@gmail.com</b></li>
+</ul>
 
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-30483023a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishekme.vercel.app)
-![Profile views](https://komarev.com/ghpvc/?username=abhimishraofficial&color=0A66C2&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=abhimishraofficial&color=0A66C2&style=flat" />
 
----
-
-## 🛠 Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-2C2C2C?style=for-the-badge&logo=nodedotjs&logoColor=6DA55F)
-![Express.js](https://img.shields.io/badge/Express.js-1B1F23?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![Firebase](https://img.shields.io/badge/Firebase-121212?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🧮 [Algorithm Finder](https://github.com/abhimishraofficial/algorithm-finder)
-> A React-based web app to visualize and understand algorithms with clean UI and categorized topics.  
-**Tech Stack:** React, TypeScript, TailwindCSS  
-
-![Algorithm Finder Preview](https://raw.githubusercontent.com/abhimishraofficial/algorithm-finder/main/preview2.png)
-
----
-
----
-
-### ☁️ [MultiCloud](https://github.com/abhimishraofficial/multicloud)
-> A cloud management dashboard that integrates multiple cloud service providers for unified monitoring.  
-**Tech Stack:** React, Node.js, Express, MongoDB, Chart.js
-
-![MultiCloud Preview](https://raw.githubusercontent.com/abhimishraofficial/multicloud/main/preview1.png)
-
----
-
-### 💗 [FemCare](https://github.com/abhimishraofficial/femcare)
-> A women’s health and hygiene awareness platform with blogs and product recommendations.  
-**Tech Stack:** React, TailwindCSS, Firebase
-
-![FemCare Preview](https://raw.githubusercontent.com/abhimishraofficial/femcare/main/preview.png
-)
-
----
-
-## 📊 GitHub Stats
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhimishraofficial&show_icons=true&theme=react&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimishraofficial&layout=compact&theme=react&hide_border=true)
-
----
-
-⭐ **“Code. Create. Contribute.”**
+</td>
+</tr>
+</table>
