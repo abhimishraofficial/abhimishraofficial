@@ -1,9 +1,13 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f4ae514e-c257-4083-987c-60c400cb3263" alt="Abhishek Kumar Banner" width="100%" />
+</p>
 # 👋 Hi, I'm Abhishek Kumar
 
 💻 **Full Stack Developer** | 🚀 **React, Node.js Enthusiast** | 🤖 **AI Learner**  
 I love building clean, scalable web apps and exploring new technologies every day.  
 
----
+---<img width="1139" height="284" alt="banner" src="https://github.com/user-attachments/assets/f4ae514e-c257-4083-987c-60c400cb3263" />
+
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-30483023a/)
