@@ -1,104 +1,68 @@
-👋 Hi, I’m Abhishek Kumar
-<p align="left"> <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="banner" /> </p>
-🚀 Full Stack Developer | Computer Science Engineer | Cloud & AI Enthusiast
+# 👋 Hi, I'm Abhishek Kumar
 
-📍 Lucknow, Uttar Pradesh, India
+💻 **Full Stack Developer** | 🚀 **React, Node.js Enthusiast** | 🤖 **AI Learner**  
+I love building clean, scalable web apps and exploring new technologies every day.  
 
-👨‍💻 About Me
+---
 
-🎓 B.Tech in Computer Science & Engineering (CGPA: 8.68)
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-30483023a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishekme.vercel.app)
+![Profile views](https://komarev.com/ghpvc/?username=abhimishraofficial&color=0A66C2&style=for-the-badge)
 
-💡 Passionate about Full-Stack Development, Cloud Computing & AI
+---
 
-🔭 Currently building scalable React & MERN applications
+## 🛠 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-2C2C2C?style=for-the-badge&logo=nodedotjs&logoColor=6DA55F)
+![Express.js](https://img.shields.io/badge/Express.js-1B1F23?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![Firebase](https://img.shields.io/badge/Firebase-121212?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-🌱 Constant learner, exploring Next.js, AI-powered apps & system design
+---
 
-⚡ Fun fact: I love converting ideas into clean, production-ready UI
+## 🚀 Featured Projects
 
-📫 Reach me at: abhimishrahjp@gmail.com
+### 🧮 [Algorithm Finder](https://github.com/abhimishraofficial/algorithm-finder)
+> A React-based web app to visualize and understand algorithms with clean UI and categorized topics.  
+**Tech Stack:** React, TypeScript, TailwindCSS  
 
-🔗 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/abhishek-kumar-30483023a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="https://github.com/abhimishraofficial" target="_blank"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/> </a> <a href="https://abhishekme.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel"/> </a> </p>
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,docker,postman,linux,vercel,aws" /> </p>
-💼 Experience
-Web Development Intern — Prodigy Infotech
+![Algorithm Finder Preview](https://via.placeholder.com/900x450.png?text=Algorithm+Finder+Preview)
 
-📍 Remote | Sep 2024 – Oct 2024
+---
 
-Built responsive web apps using React.js, HTML5, CSS3 & ES6+
+### 🛒 [FlipSmart](https://github.com/abhimishraofficial/flipsmart)
+> A modern e-commerce platform featuring cart, wishlist, and authentication functionality.  
+**Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)
 
-Developed a Stopwatch Web App with start/pause/reset/lap features
+![FlipSmart Preview](https://via.placeholder.com/900x450.png?text=FlipSmart+Preview)
 
-Designed reusable UI components, improving scalability & maintainability
+---
 
-Recognized with a Letter of Recommendation for performance excellence
+### ☁️ [MultiCloud](https://github.com/abhimishraofficial/multicloud)
+> A cloud management dashboard that integrates multiple cloud service providers for unified monitoring.  
+**Tech Stack:** React, Node.js, Express, MongoDB, Chart.js
 
-🚀 Projects
-🩺 FEM CARE – AI Powered Healthcare App
+![MultiCloud Preview](https://via.placeholder.com/900x450.png?text=MultiCloud+Preview)
 
-🔗 https://fem-care-lemon.vercel.app/
+---
 
-Built with React, TypeScript, Vite, Tailwind & shadcn/ui
+### 💗 [FemCare](https://github.com/abhimishraofficial/femcare)
+> A women’s health and hygiene awareness platform with blogs and product recommendations.  
+**Tech Stack:** React, TailwindCSS, Firebase
 
-Integrated AI-driven health assistance
+![FemCare Preview](https://via.placeholder.com/900x450.png?text=FemCare+Preview)
 
-Modular architecture with optimized frontend performance
+---
 
-Focused on accessibility & real-time insights
+## 📊 GitHub Stats
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhimishraofficial&show_icons=true&theme=react&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimishraofficial&layout=compact&theme=react&hide_border=true)
 
-☁️ Cloud Sync – Multi Cloud Management App
+---
 
-🔗 https://multicloud-pi.vercel.app/
-
-Developed using React, TypeScript, Vite & Tailwind
-
-Real-time cloud resource monitoring UI
-
-Highly scalable & maintainable architecture
-
-🏡 Regal Estate – Full Stack Real Estate Platform
-
-🔗 https://regal-estate.vercel.app/
-
-MERN stack with JWT Authentication & bcrypt
-
-Secure login, property listings & inquiry management
-
-Fully responsive UI with optimized performance
-
-🩸 Lead Contributor – Blood Donation MERN Platform
-
-📅 Mar 2025 – May 2025
-
-Led development of a MERN-based blood donation system
-
-Implemented secure APIs & real-time request management
-
-Improved UI/UX & database efficiency
-
-Delivered a scalable, community-driven solution
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhimishraofficial&show_icons=true&theme=radical" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhimishraofficial&theme=radical" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimishraofficial&layout=compact&theme=radical" /> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=abhimishraofficial&theme=onestar&row=1&column=6" /> </p>
-📜 Certifications
-
-🏅 Certificate of Excellence – Cloud Computing (IKIGAI School of AI)
-
-📄 Letter of Recommendation – Prodigy Infotech
-
-📘 Data Structures & Algorithms – GeeksforGeeks
-
-☕ Java Spring Framework & Spring Boot – Telusko
-
-🌐 Full Stack Web Development Bootcamp – Udemy
-
-✨ Random Dev Quote
-
-“The most important single aspect of software development is to be clear about what you are trying to build.”
-— Bjarne Stroustrup
-
-⭐ If you like my work, consider giving a star to my repositories!
+⭐ **“Code. Create. Contribute.”**
