@@ -1,5 +1,5 @@
 👋 Hi, I’m Abhishek Kumar
-<p align="center"> <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="banner" /> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="banner" /> </p>
 🚀 Full Stack Developer | Computer Science Engineer | Cloud & AI Enthusiast
 
 📍 Lucknow, Uttar Pradesh, India
