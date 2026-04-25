@@ -1,68 +1,75 @@
-# 👋 Hi, I'm Abhishek Kumar
+Abhishek Kumar 
 
-💻 **Full Stack Developer** | 🚀 **React, Node.js Enthusiast** | 🤖 **AI Learner**  
-I love building clean, scalable web apps and exploring new technologies every day.  
+Full Stack Developer | React • Node.js • Cloud (AWS) • DSA
 
----
+I build scalable, performant web applications with clean architecture and real-world impact.
+Currently focused on MERN stack, system design, and cloud integration.
 
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-30483023a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishekme.vercel.app)
-![Profile views](https://komarev.com/ghpvc/?username=abhimishraofficial&color=0A66C2&style=for-the-badge)
+🧠 About Me
+🎓 Final-year B.Tech student (2025)
+💻 Strong in Java, DSA, and Full Stack Development
+☁️ Hands-on with AWS (VPC, CloudFront, Monitoring)
+🧩 Problem Solver | 3⭐ on LeetCode
+🚀 Actively seeking Software Developer / Cloud Engineer roles
+🔗 Connect
+💼 LinkedIn: https://www.linkedin.com/in/abhishek-kumar-30483023a/
+🌐 Portfolio: https://abhishekme.vercel.app
+🧑‍💻 GitHub: https://github.com/abhimishraofficial
+🛠 Tech Stack
 
----
+Languages
+Java JavaScript TypeScript SQL
 
-## 🛠 Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-2C2C2C?style=for-the-badge&logo=nodedotjs&logoColor=6DA55F)
-![Express.js](https://img.shields.io/badge/Express.js-1B1F23?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![Firebase](https://img.shields.io/badge/Firebase-121212?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Frontend
+React.js TailwindCSS HTML CSS
 
----
+Backend
+Node.js Express.js
 
-## 🚀 Featured Projects
+Database
+MongoDB Firebase
 
-### 🧮 [Algorithm Finder](https://github.com/abhimishraofficial/algorithm-finder)
-> A React-based web app to visualize and understand algorithms with clean UI and categorized topics.  
-**Tech Stack:** React, TypeScript, TailwindCSS  
+Tools & Cloud
+Git GitHub AWS Vercel Chart.js
 
-![Algorithm Finder Preview](https://via.placeholder.com/900x450.png?text=Algorithm+Finder+Preview)
+🚀 Projects
+🔹 Algorithm Finder
 
----
+A structured platform to visualize and learn algorithms with categorized topics and clean UI.
+Tech: React, TypeScript, TailwindCSS
+🔗 https://github.com/abhimishraofficial/algorithm-finder
 
-### 🛒 [FlipSmart](https://github.com/abhimishraofficial/flipsmart)
-> A modern e-commerce platform featuring cart, wishlist, and authentication functionality.  
-**Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)
+🔹 FlipSmart (E-Commerce Platform)
 
-![FlipSmart Preview](https://via.placeholder.com/900x450.png?text=FlipSmart+Preview)
+Full-stack e-commerce app with authentication, cart, and wishlist system.
+Tech: MERN Stack
+🔗 https://github.com/abhimishraofficial/flipsmart
 
----
+🔹 MultiCloud Dashboard
 
-### ☁️ [MultiCloud](https://github.com/abhimishraofficial/multicloud)
-> A cloud management dashboard that integrates multiple cloud service providers for unified monitoring.  
-**Tech Stack:** React, Node.js, Express, MongoDB, Chart.js
+Unified cloud monitoring dashboard integrating multiple services.
+Tech: React, Node.js, MongoDB, Chart.js
+🔗 https://github.com/abhimishraofficial/multicloud
 
-![MultiCloud Preview](https://via.placeholder.com/900x450.png?text=MultiCloud+Preview)
+🔹 FemCare Platform
 
----
+Health awareness platform with blogs and product recommendations.
+Tech: React, Firebase, TailwindCSS
+🔗 https://github.com/abhimishraofficial/femcare
 
-### 💗 [FemCare](https://github.com/abhimishraofficial/femcare)
-> A women’s health and hygiene awareness platform with blogs and product recommendations.  
-**Tech Stack:** React, TailwindCSS, Firebase
+📊 GitHub Insights
 
-![FemCare Preview](https://via.placeholder.com/900x450.png?text=FemCare+Preview)
 
----
 
-## 📊 GitHub Stats
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhimishraofficial&show_icons=true&theme=react&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimishraofficial&layout=compact&theme=react&hide_border=true)
 
----
+🏆 Achievements
+🥇 Certificate of Excellence – Cloud Computing (AWS Project)
+⭐ 3-Star on LeetCode
+💼 Internship Experience (Web Development & Java)
+🎯 Current Focus
+System Design & Backend Scaling
+Advanced DSA for Product Companies
+Cloud-native application development
+⚡ Philosophy
 
-⭐ **“Code. Create. Contribute.”**
+Build real projects. Solve real problems. Stay consistent.
