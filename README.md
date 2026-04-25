@@ -22,7 +22,7 @@ Experienced in building production-level systems with optimized APIs, responsive
 and clean architecture. Passionate about backend development and system design.
 </p>
 
-<img align="right" width="300" src="https://illustrations.popsy.co/amber/developer.svg"/>
+<img align="right" width="300" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png"/>
 
 ---
 
