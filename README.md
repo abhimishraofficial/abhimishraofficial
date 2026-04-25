@@ -6,7 +6,7 @@ I build scalable, performant web applications with clean architecture and real-w
 Currently focused on MERN stack, system design, and cloud integration.
 
 🧠 About Me
-🎓 Final-year B.Tech student (2025)
+🎓  B.Tech CSE Graduate (2025)
 💻 Strong in Java, DSA, and Full Stack Development
 ☁️ Hands-on with AWS (VPC, CloudFront, Monitoring)
 🧩 Problem Solver | 3⭐ on LeetCode
