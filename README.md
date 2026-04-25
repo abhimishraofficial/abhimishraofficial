@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Abhishek Kumar Mishra</h1>
+<h1 align="center">🚀 Abhishek Kumar</h1>
 <h3 align="center">Full Stack Developer | MERN | AWS | Java</h3>
 
 <p align="center">
@@ -22,7 +22,7 @@ Experienced in building production-level systems with optimized APIs, responsive
 and clean architecture. Passionate about backend development and system design.
 </p>
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" width="300" src="https://illustrations.popsy.co/amber/developer.svg"/>
 
 ---
 
